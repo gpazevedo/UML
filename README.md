@@ -20,7 +20,7 @@ Main behavior diagrams in UML:
 
 ## Structure Diagrams
 
-This article approaches the Class Diagram and relationships among structural elements.
+This article describes the Class Diagram and relationships among structural elements.
 
 ### Class Diagrams
 Class diagrams show the structure of a software system presenting its classes and their relationships.
